@@ -1,2 +1,3 @@
 # kodluyoruzilkrepo
- Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+ Kodluyoruz Eğitimi kapsamında patika.dev için açtığım ilk repo
+www.patika.dev
